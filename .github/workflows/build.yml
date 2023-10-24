@@ -12,7 +12,7 @@ on:
           - release
 
 env:
-  SCCACHE_CACHE_SIZE: 5G
+  SCCACHE_CACHE_SIZE: 6G
   SCCACHE_DIR: /home/runner/.cache/sccache
 
 jobs:
